@@ -3,7 +3,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate IT Student. Love to build Mobile Applications with React Native and everything around 😄
+<h3 align="center"> A passionate IT student who has a keen interest in learning and developing new Full-Stack technologies and mobile Engineering. Love to build Mobile Applications with React Native and everything around 😄
 </h3>
 
 <br>
