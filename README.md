@@ -2,9 +2,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Damini</h1> -->
 
 ## 🧐 About
-<div style="width:60px ; height:60px">
- <img scr="
-https://github.com/daminimehra/daminimehra/assets/71871235/8d4b58f9-606d-4247-a606-67cfb7aa58e6" >
+<div>
+<img scr="https://github-production-user-asset-6210df.s3.amazonaws.com/71871235/244750187-8d4b58f9-606d-4247-a606-67cfb7aa58e6.jpeg">
 </div>
 <h3 align="center"> A passionate IT student who has a keen interest in learning and developing new Full-Stack technologies and mobile Engineering. Love to build Mobile Applications with React Native and everything around 😄
 </h3>
