@@ -5,18 +5,19 @@
 
 <h3 align="center"> A passionate IT student who has a keen interest in learning and developing new Full-Stack technologies and mobile Engineering. Love to build Mobile Applications with React Native and everything around 😄
 </h3>
+<img align="right" margin-top="20px" margin-right="100px" height="50px" alt="GIF" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
+<img align="right" margin-top="20px" margin-right="100px" height="50px" alt="GIF" src="https://gdsc-yonsei.github.io/assets/images/GDSC-Logo.png" />
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 <br>
 
-### I am 3rd IT student at DAVIET <img align="right" margin-top="20px" margin-right="100px" height="50px" alt="GIF" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" />
-<img align="right" margin-top="20px" margin-right="100px" height="50px" alt="GIF" src="https://gdsc-yonsei.github.io/assets/images/GDSC-Logo.png" />
+### I am 3rd IT student at DAVIET 
 - 🔭 I’m currently GDSC LEAD and Postman Student Lead .
 - 🌱 I play chess in my free time  and make memes stuff related to music. 
 - 👯 I’m open for tech talks and events .
 
 
- <img scr="WhatsApp Image 2023-06-09 at 20.55.31.jpeg">
+ <
 
 
 <h3 align="left">▶ Connect with me:</h3>
