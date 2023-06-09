@@ -3,7 +3,7 @@
 
 ## 🧐 About
 <div style="width:60px ; height:60px">
-![WhatsApp Image 2023-06-09 at 21 52 38](https://github.com/daminimehra/daminimehra/assets/71871235/8d4b58f9-606d-4247-a606-67cfb7aa58e6)
+https://github.com/daminimehra/daminimehra/assets/71871235/8d4b58f9-606d-4247-a606-67cfb7aa58e6
 </div>
 <h3 align="center"> A passionate IT student who has a keen interest in learning and developing new Full-Stack technologies and mobile Engineering. Love to build Mobile Applications with React Native and everything around 😄
 </h3>
