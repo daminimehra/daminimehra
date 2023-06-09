@@ -15,10 +15,10 @@
 - 🌱 I play chess in my free time  and make memes stuff related to music. 
 - 👯 I’m open for tech talks and events .
 
-<div style="width:60px ; height:60px">
- <img scr="https://pbs.twimg.com/profile_images/1527615777435951105/9ke3Ip7c_400x400.jpg">
 
-</div>
+ <img scr="WhatsApp Image 2023-06-09 at 20.55.31.jpeg">
+
+
 <h3 align="left">▶ Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/damini-mehra-569b22213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
