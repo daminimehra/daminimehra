@@ -41,7 +41,7 @@
    <span><a href="https://github.com/daminimehra"><img src="https://img.shields.io/badge/-daminimehra-grey?style=flat&logo=Github&logoColor=white&link=https://github.com/daminimehra"/></a></span>
    <span><a href="https://www.linkedin.com/in/damini-mehra-569b22213/"><img src="https://img.shields.io/badge/-Damini Mehra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damini-mehra-569b22213/"/></a></span>
    <span><a href="https://www.youtube.com/channel/UCHJw5vsPHAJLFobLJowP35w"><img src="https://img.shields.io/badge/Damini-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCWEmm4gTBJxNwuYmRDP7NLQ)"/></a></span>  
- <span><a href="daminimehra450@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daminimehra450@gmail.com"/></a></span>
+ <span><a href="mailto:daminimehra450@gmail.com"><img src="https://img.shields.io/badge/-daminimehra450-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daminimehra450@gmail.com"/></a></span>
     <span><a href="https://instagram.com/daminimehra_"><img src="https://img.shields.io/badge/daminimehra_-E4405F?style=flat&logo=instagram&logoColor=white"/></a></span>
   <span><a href="https://twitter.com/daminimehra_"><img src="https://img.shields.io/twitter/follow/daminimehra_?style=social"/></a></span><br>
    </div>
