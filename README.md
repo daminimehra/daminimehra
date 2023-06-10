@@ -68,9 +68,9 @@
 
 </div>
  
+ <br>
  
- 
- <img src="./png" alt="InfiniteGraph Logo" width="320">
+ <img src="./WhatsApp Image 2023-06-09 at 21.12.31.jpeg" alt="InfiniteGraph Logo" width="320">
 
 
 
