@@ -11,7 +11,7 @@
  <table align="right" margin-top="20px" float="right"  width="100%">
 
   
-  <tr><td><samp> B.TECH <a href="https://www.davietjal.org/">@DAVIET</a> college</samp></td></tr>
+  <tr><td><samp> <summary>B.TECH</summary> <a href="https://www.davietjal.org/">@DAVIET</a> college</samp></td></tr>
   <tr><td> <samp> <summary>Field</summary><div><span>⚡ MAJOR-Information Technology</span><br></div></samp> </td></tr>
     <tr><td><samp><summary>Achivements</summary><div><span><a href="https://hacktoberfest.digitalocean.com/">HACKTOBERFEST 2021</a></span><br><span><a href="">Postman Student Experts’ Certification</a></span><br><span><a href="">30 Days of Postman’ Coding Challenge</a></span><br><span><a href="https://gdsc.community.dev/events/details/developer-student-clubs-ramrao-adik-institute-of-technology-navi-mumbai-presents-psychhack-36hr-online-hackathon/"> PsychHack 2022, Hackathon</a></span></div></samp> </td></tr>
   
