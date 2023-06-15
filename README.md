@@ -52,7 +52,7 @@
 <br>
 <br>
 <div margin-top="40px" float="right"  align="left">
-- 📝 I'm an IT student and a passionate Full Stack Software Developer 🚀 having experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
+- 📝 I'm an IT student and a passionate Full Stack Software Developer 🚀 having experience in building Web and Mobile applications.
  <br>
  <br>
 - 🔭 I’m currently GDSC LEAD'22-23 and Postman Student Leader.
