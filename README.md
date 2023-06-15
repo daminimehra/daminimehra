@@ -52,7 +52,7 @@
 <br>
 <br>
 <div margin-top="40px" float="right"  align="left">
-- 📝 I'm a IT student who has a keen interest in learning and developing new Full-Stack technologies and Mobile Engineering.
+- 📝 I'm an IT student and a passionate Full Stack Software Developer 🚀 having experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.
  <br>
  <br>
 - 🔭 I’m currently GDSC LEAD'22-23 and Postman Student Leader.
@@ -61,7 +61,7 @@
 - 🌱 I play chess in my free time and make memes stuff related to music. 
  <br>
  <br>
-- 👯 I’m open for tech talks and events .
+- 👯 I’m open for tech talks and events.
  <br>
  <br>
 - 👨‍💻 My portfolio website https://daminimehra.github.io/myportfolioDM/
